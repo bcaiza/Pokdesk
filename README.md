@@ -1,1 +1,3 @@
-# Pokdesk
+# Pokedesk
+
+Pokedesk made in React
